@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why all good Christians should observe the holy fast of Lent extracted out of my Lord of Ely's Paschal fast.</title>
+            <author>Gunning, Peter, 1614-1684.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42332</idno><idno type="EEBO-CITATION">11998227</idno>
+  <idno type="VID">52169</idno>
+  <idno type="EEBO-PROQUEST">2240892749</idno>
+  
+            <idno type="STC">Wing G2236A</idno>
+            <idno type="STC">ESTC R12219</idno>
+            <idno type="OCLC">11998227</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A42332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 564:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why all good Christians should observe the holy fast of Lent extracted out of my Lord of Ely's Paschal fast.</title>
+                  <author>Gunning, Peter, 1614-1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Attributed to Peter Gunning, Bishop of Ely between 1674 and 1684. Cf. Wing, DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lent.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52169:1"/>
+            <head>REASONS Why all GOOD CHRISTIANS Should observe the <hi>Holy Fast of Lent.</hi> Extracted out of my Lord of <hi>ELY's Paschal Fast.</hi>
+            </head>
+            <p>THE Sacred Penitential Time of <hi>Lent</hi> is at hand, what shall I do? Shall I take notice of it, or no? If I take no notice of it, Mr. <hi>Hickeringill</hi> will stigmatize me as a <hi>Black Non Confor<g ref="char:EOLhyphen"/>mist;</hi> and if I do take notice of it, Mr. <hi>Care</hi> will calum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nate me as a <hi>Papist</hi> in <hi>Masquerade.</hi> O Times! O Manners! Unhappy Age in which we live! <hi>Dissipavit Deus ossa eorum qui hominibus placent: God h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> broken the bones of those who please Men.</hi> If I seek to please Men, or fear to offend them, I am no longer an honourable Servant of Jesus Christ, but a base Slave of the vile World. If I christianly observe this Sacred Time, my own Conscience, I am sure, will applaud me, whatsoever my Neighbours may say or think of me: And a good Conscience, even when it dictates Fasting and Abstinence, is a continual Feast. But will not the Holy Gospel say, I am superstitious? God forbid. I know they are the words of our Blessed Lord himself, <hi>Matth.</hi> 15.11. <hi>Not that which goes into the mouth, de<g ref="char:EOLhyphen"/>files a Man; but that which comes out of the mouth, this defiles a Man.</hi> And truly had our great Master spoken those words, when it was objected to him by the Disciples of St. <hi>John,</hi> that they and the Pharisees fasted often, but his Disciples fasted not, the Objection would not so easily have been answered: But consulting the Sacred Text, I find he is so far from dispa<g ref="char:EOLhyphen"/>raging the holy Exercise of Fasting, by saying, <hi>Not that which goes into the mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th defiles,</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>citly commends it, as a Duty too sublime, for such Novices in Religion as his Apostles as yet were, but the time would come when they sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld fast, to wit, after he shall have been taken away from
+<pb n="2" facs="tcp:52169:2"/> them, and shall have strengthen'd them for so hard and necessary a Duty, by a plentiful effusion of the Holy-Ghost upon them. The new Wine of rigorous Abstinenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Fasti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo strong for the frail B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Lord's D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sciples, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfirm<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion from the Holy-Ghost u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on the day of <hi>Pentecos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an then that which goes into my mouth de<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e me? Yes, when I eat or drink in contempt of the equitable and just command of my lawful Superiour, Ecclesiastical or Civil. Though strictly speaking, it is not the Meat then which defiles me, but my disobedience to my Supe<g ref="char:EOLhyphen"/>riour.</p>
+            <p>Not to engage in long Disputes: For these Reasons methinks every good Christian ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht Religiously to obs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rve the Holy Fast of Len<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="1">1. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>caus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fasting in it self has ever been look'd upon by all Christians as a Christian Duty, and is not only highly commended by all the ancient Fathers of the most Primitive times, but also by the Holy Scripture it self; as having a singular Power to drive out the Devil: <hi>This Devil goes not out but by Prayer and Fastin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> To <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>btain the Holy G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ost for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r selves or others: The Hol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ostles <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed and prayed, that the Holy Ghost might descend upon those on whom they conferred H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Orders. To avert God's anger from a particular Person, City, or Country. Thus <hi>Ahab</hi> and the <hi>Ni<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>it<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> appeased the wrath of the Almighty: To s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Concupis<g ref="char:EOLhyphen"/>cence; to dispose the Mind for Prayer; to encrease all Vertues in us in this Life, and our Crown of Glory in the other. If we fast in a due man<g ref="char:EOLhyphen"/>ner, we have our Blessed Saviour's words for it, that we shall have a Reward in Heaven. If I fast, to afflict and humble my self before God Alm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghty for my Sins, my Fasting is an Act of Repentance. If I eat less my self that I may have more to give to those that are in necessity, my Fasting is an act of Charity. If I fast, the better to dispose my self for Prayer, 'tis an act of Religious Devotion. If I fast, judging my self not worthy of any De<g ref="char:EOLhyphen"/>licacies, nor of my fill of even the coursest Fare, 'tis an act of Humility, and disposes my Soul moreover as little to affect fine Clothes or commodious Lodgings, as I do good Victuals, and consequently moderates my desires of Money and Riches; which are not desireable by corrupt Nature, but for these or such-like uses. If I fast, that I may be better able to pay my Debts, or provide my Children's Portions, 'tis an act of Justice, and Chri<g ref="char:EOLhyphen"/>stian Paternal Piety. If to moderate my inordinate Appetite of Meat and Drink, 'tis an act of Temperance; and strangely disposes to Temperance in the whole course of my life, when by experience I find my self as chearful and contented, or rather more, upon a fasting day, than when I indulge to excess in eating and drinking. In fine, 'tis hard to name a Vertue which fasting does not st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angely help to procure, maintain, and encrease. As for the four Cardinal Vertues, 'tis the formal exercise of the highest degree of Temperance; nor is Fortitude less seen in abstaining from what pleases us, than in sustaining what afflicts us. It makes Justice easie, and is the Mo<g ref="char:EOLhyphen"/>ther of wife and sober Thoughts. It moderates our Passion<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, def<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cates <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Understandings, and makes us more fit for Contemplatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Natural or Supernatural Verities. <hi>O Angelical Abstinence!</hi>
+            </p>
+            <q>
+               <pb n="3" facs="tcp:52169:2"/>
+               <l>Methinks I could be intemperate in thy Praise,</l>
+               <l>And feast thee with sugar'd Words, and Roundelays. <hi>B. O.</hi>
+               </l>
+            </q>
+            <p n="2">2. <hi>Fasting</hi> then being of so singular use in a Christian life, and Expe<g ref="char:EOLhyphen"/>rience telling us, That those who fast only, when they please, are pleased to fast very seldom, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not at all; our Spiritual Prelates, who watch for our Souls good, can do no less than oblige us by a Law to fast some times, nor we do no less than Religiously observe their equitable Commands.</p>
+            <p n="3">3. I have all reason to think, the Holy Fast of Lent was first appointed by the Holy Apostles themselves, and consequently ought to be Religiously observed by all good Christians. Now that the Holy Fast of Lent was ap<g ref="char:EOLhyphen"/>pointed by the Apostles, methinks may be proved thus: Two hundred years ago <hi>England, France, Spain, Germany, Italy,</hi> and all the Eastern Churches, universally <hi>fasted</hi> Lent, as 'tis evident by the Records and Annals of our own, and those other Christian Countries. There<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore the Apostles taught Lent to their first Converts, both in the Eastern and Western World where they preached: For it cannot be imagined, that so many several Countries, Kings and Subjects, Priests and People, could by chance fall upon the yearly practice of abstaining from Flesh 40 days before <hi>Easter:</hi> Therefore they must either all at first be taught so by their first Masters of Christianity, which is the Conclusion intended to be proved; or some universal Supreme Authority, Ecclesiastical or Civil, must so have commanded them to do; or some Preachers first in one Country, and then in another, must so have persuaded them to do in some Age since. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t no Annals of our own, or other Christian Countries, make any mention of any such Preachers, or any such Ordination made by any General Council, Pope, Prince, or Emperour: Nor yet have we, or any other Christian Countries, wanted Ecclesiastical Historiographers, who in their Memorials have taken notice of far lesser matters than such an Innovation as this must needs have been, had the Apostles taught the World no such observance. And the truth is, 'tis pure Ignorance, in Ecclesiastical History, and the Works of the Primitive Fathers, that makes so many waver in the Belief of the Apostolical Institution of <hi>Lent;</hi> in which, if they were well conversant, they could not possibly doubt of it.</p>
+            <p>Further: Not only two hundred years ago, but twelve hundred years ago, <hi>Lent</hi> was universally observed in the whole Christian World, both in the Eastern and Western Church, as is manifest out of the pious Works of the prime Pillars and Pastors of Christ's Church, in the fourth and fifth Gentury of Christianity. Nor do the opposers of <hi>Lent</hi> deny so much, and therefore appeal to the first 300 years after our Saviour; for which time, and which only, they pretend the Christian Worship was untainted, and not infected with the superstitious Observation of <hi>Lent.</hi> Let us suppose then, that for the first 300 years of Christianity, the Church of Christ in
+<pb n="4" facs="tcp:52169:3"/>
+               <hi>England, Ita<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Greece,</hi> and other Countries, observed no such thing as <hi>Lent-East;</hi> and consider by what means possible, the fourth Age could not only bring it in all over the Christian World, but bring it in so secretly or co<g ref="char:EOLhyphen"/>vertly, that the crime Doctors of the fifth Age should not be able to discern, that this new Burden was superadded to Christianity by their immediate Progenitors, but should be verily persuaded, that such an Observation had immemorially from Generation to Generation descended to them from the first planters of Christianity, the Apostles: And yet its evident, that the fifth Age did not only keep <hi>Lent,</hi> but also kept it as an Apostolical Institu<g ref="char:EOLhyphen"/>tion; and the prime Christian Doctors of that Age have left it upon Re<g ref="char:EOLhyphen"/>cord, in their deservedly admired Works, that they kept this <hi>Holy Fast</hi> as an observance taught them by Tradition from the Apostles. Hear their own words; S. <hi>Hierom,</hi> in his Epistle to <hi>Marcella: We fast one Lent</hi> (Qua<g ref="char:EOLhyphen"/>drages<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n) <hi>within the compass of a whole year, according to the Traditions of the Apostles, in a Season fit for us. The Montanists keep three Lents in the year, as if three Saviours had suffered.</hi> Now if for the first 300 years there had been no such observance by Christians at <hi>Rome,</hi> but if in the fourth Century some Bishop of <hi>Rome,</hi> or some Provincial or General Council, or Christian Emperour, had first introduced it, could a Learned Priest of <hi>Rome</hi> of the fifth Age, and one well versed in all Ecclesiastical matters, as S. <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> was, err so grosly, as to mistake so new an Institution for an Apostolical Tradition, that is, for an observance taught the City of <hi>Rome,</hi> from Father to Son, from the Apostles. For the <hi>Greek</hi> Church, hear the Testimony of <hi>Theophilus,</hi> Patriarch of <hi>Alexandria,</hi> (to the Patriarchs of which See, it was entrusted by the first General Council, That they should yearly signifie before-hand, to the rest of the Churches, as well as their own, the true time of <hi>Easter</hi>). In his first Paschal Epistle, he writes thus: <hi>Let us cure the divers wounds of Vices,</hi> &amp;c. <hi>And so may we enter the Fasts at hand, begin<g ref="char:EOLhyphen"/>ning Lent the</hi> 30th <hi>day of the month</hi> Mechir, (as it were our <hi>February,</hi> the <hi>Egyptians</hi> reckoning 30 days in every month.) <hi>The week of the Salutary Pasch on the fifth day of the month</hi> Pharmuth (or April), <hi>and ending the Fasts according to the Evangelical Traditions on the evening of the</hi> Saturday, <hi>being the tenth of</hi> Pharmuth; <hi>and on the next Lords day, the</hi> 11th <hi>of the same month, let us celebrate the Feasts.</hi> The like he says in his second Paschal Epistle; and again he says according to the Evangelical Traditions. I add the Testimony of S. <hi>Cyril,</hi> Patriarch of the same <hi>Alexandria,</hi> in the next Age, in his 20th Homily, <hi>De Festis Paschalibus: So let us keep a pure Fast, beginning the Holy Lent from such a day, ending also the Fasts on the</hi> 7th <hi>day of</hi> Pharmuth, <hi>late in the Evening, according to the Traditions Apostolical.</hi> The same S. <hi>Cyril,</hi> in nineteen other of his Homilies, cited by B. <hi>Gunning,</hi> in his <hi>Lent-Fast</hi> proved to be Apostolical, <hi>De Festis Paschalibus,</hi> (preached in so many several years) refers the same Fasts of <hi>Lent</hi> to Tradition, Appoint<g ref="char:EOLhyphen"/>ment, or Instruction Evangelical. <hi>The Law of abstaining in Lent, was al<g ref="char:EOLhyphen"/>ways in the Church,</hi> says the above-cited <hi>Theophilus Alexandrinus.</hi> Now our it be imagined, that these two Learned Patriarchs (to whom by the whole Christian Church was committed the care of signifying the due
+<pb n="5" facs="tcp:52169:3"/> time of <hi>Lent</hi> and <hi>Easter</hi>) had the Holy Fast of <hi>Lent</hi> been so sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely brought in by s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Universal, Ecclesiastical or Civil Authority; could be ignorant of it, and think and tell all the World also, that they had been so taught to end <hi>Lent</hi> from Generation to Generation from the Apostles? Note also, wheresoever <hi>Lent</hi> is observed, the Observers of it profess from Generation to Generation to have observed it, from the first planting of Christianity amongst them; nor does any of their Annals, Ecclesiastical or Civil, make any mention of a later instit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of it, and reflect, if the Holy Apostles had appointed <hi>Lent</hi> by Oral Preaching, what other Arguments could we have had for its Apostolical Institution?</p>
+            <p>But if a yearly Religious Observation of the Holy Fast of <hi>Lent</hi> be of such singul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r benefit and Spiritual advantage to all Christians, and if also the Apostles of our Lord Jesus Christ did recommend such an Observation to the several Countries by them converted to the Christian Faith, how comes it to pass that none of all their Writings which have come to our hands, makes express mention of it? Hear Bishop <hi>Gunning,</hi> p. 138. <hi>Ritual Observances being visible, and as it were legible in the universal Churches con<g ref="char:EOLhyphen"/>stant practic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, needed not to be set down in her written Rule: Or those which are therein set down, not necessary so evidently, but that they might need the inter<g ref="char:EOLhyphen"/>pretation of such the Churches practice.</hi> And indeed, whoever will impar<g ref="char:EOLhyphen"/>tially consider the nature of the Books of the <hi>New Testament,</hi> will be so fat from wondering, that all the Rituals of Christianity are not expresly de<g ref="char:EOLhyphen"/>clared in them, that he will rather wonder there is so much in them of the exterior Rites of Christian Religion as there is. Had any of the Sacred Christian Pen-men written a Book, on purpose to declare the whole manner of Christian Worship, like <hi>Moses</hi> his <hi>Exodus</hi> or <hi>Leviticus,</hi> we might rea<g ref="char:EOLhyphen"/>sonably have expected an account, what days Christians were to set apart for Fasting or Religious Feasting, what Garments they were to use in time of Divine Worship, <hi>&amp;c.</hi> But they only, as is manifest, writing Books for other intents and purposes, by way of History, for example, or moral Ex<g ref="char:EOLhyphen"/>hortations, and making mention only by the by of some of our Christian Rites, as they occur'd; nothing can be more unreasonable than to expect in their said Writings an express clear mention of every Christian Ceremo<g ref="char:EOLhyphen"/>nial Observance. And why St. <hi>Paul,</hi> or other of the Apostles, should make mention of <hi>Lent</hi> in the Epistle, they wrote to persons already instructed in the Christian Faith, I understand not, unless perchance the persons they wrote unto, had been deficient in observing it.</p>
+            <p>Further: What though the Holy Apostles did not first institute the <hi>Lent Fast,</hi> but it grew by little and little from the pious observation of some particular Christians into an universal Practice, ought not the univer<g ref="char:EOLhyphen"/>sal Practice of the whole Christian Church, both Eastern and Western, of above twelve hundred years continuance, to have more poyse with us, than the Non conformity of a few Mushrom-Christians, sprung up in the night of this last Age? Besides, we are commanded by our Civil and Ecclesiasti<g ref="char:EOLhyphen"/>cal Superiours assembled in Parliament, to fast <hi>Lent</hi> upon a Religious ac<g ref="char:EOLhyphen"/>count, by an Act never yet repeal'd; witness the Statute, 2 <hi>&amp;</hi> 3. of <hi>Ed.</hi> 6.
+<pb n="6" facs="tcp:52169:4"/>
+               <hi>c.</hi> 19. <hi>For as much as divers the Kings Subjects have of late time, more than in times past, broken and contemned such Abstinence, which has been used in this Realm upon the Friday and Saturday, the Emb'ring days, and other days, com<g ref="char:EOLhyphen"/>monly called</hi> Vigils, <hi>and in the time commonly called</hi> Lent, <hi>and other accustomed Times, the King's Majesty considering that due and godly Abstinence is a means to Vertue, and to subdue men's Bodies to their Soul and Spirit; and considering also that Fishers,</hi> &amp;c. <hi>doth Ordain and Enact, with the assent of the Lords Temporal and Spiritual,</hi> &amp;c. <hi>That no person or persons, of what Estate, Degree, or Condition he or they be, shall at any time after the First day of</hi> May, 1549. <hi>willingly or unwillingly eat any manner of Flesh upon any</hi> Friday <hi>or</hi> Saturday, <hi>or the</hi> Ember <hi>days, or on any day in the time commonly called</hi> Lent.</p>
+            <p>Moreover if <hi>Lent</hi> be not to be observed upon a Religious account, In the name of God what does it in the Liturgy-Calender, more than Fairs and Markets? Reflect also with B. <hi>Gunning</hi> upon the Prayer for the first Sunday in <hi>Lent. O Lord, who for our sakes did'st fast forty days and forty nights, give us Grace to use such Abstinence, that our flesh being subdued to the Spirit we may ever obey thy Godly motions in Righteousness and true Holiness,</hi> &amp;c. How unworthy it would be to make that Holy Prayer to bear such a sense as this; <hi>O Lord, who for our sakes did'st fast forty Days and forty nights, give us Grace to use such Abstinence, that our Sea-faring Men, and Mariners, and young Cattel, and the like may be maintained.</hi>
+            </p>
+            <p>To conclude, we offend the same all holy and all just God, by the same sins our fore-fathers Offended him, why should we not seek to appease his anger by the same Humiliations of Fasting and Abstinence as they did? we have Bodies no less subject to concupiscence than theirs, why not keep them in subjection by the same chastizements as they have done? We need the same Holy-Ghost our fore-Elders did, why should we expect to draw him down upon us but by fasting and prayer, as they did? Nor can our living in a Northerly Country excuse us, our Ancestors who lived under the same climate fasted often and rigorously. If we expect to go to the same Heaven with them, we must expect to go by the same rought path of Christian Temperance as they went. Besides the abounding of all iniquity amongst us, Covetousness, Drunkenness, Glutony, Lasciviousness, Pride, Malice, Shedding of Innocent blood, Profaness, Perjury, Blasphemy, Infidelity, Atheism, cry aloud to Gods Vengeance against us, and call every devout Christian to Fasting, Weeping and Mourning, to prevent those temporal Judgments we may justly fear, and remove those spiritual plagues of Divisions, Ignorance and Error, which we too sensibly feel. <hi>In that day,</hi> saies the Holy Prophet <hi>Esay,</hi> Chap. 22, V. 12, 13, 14. <hi>Did the Lord God of Hosts call to Weeping and to Mourning, and to Baldness; and to girding with Sackcloath: and behold joy and gladness, slaying Oxen and killing Sheep, eating Flesh and drinking Wine: let us eat and drink for to morrow no shall dy. And it was revealed in mine ears by the Lord of Hosts, surely this iniquity shall not be purged from you till you dy, saith the Lord God of Hosts.</hi> The eating of Flesh and drinking Wine, when God Almighty calls to fasting, weeping, and mourning, is an iniquity, saies
+<pb n="7" facs="tcp:52169:4"/> the Holy Prophet, which shall never be forgiven. And when does Almighty God call to fasting, weeping and mourning, if h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do not call then, when our own and others sins require it, when the practice of the whole Christian World in all Ages invites to it, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen our lawful Superiors, who watch for our souls good, positively command it?</p>
+            <p>Whom all that has been said cannot perswade to a Religious observation of the Penitential time of <hi>Lent,</hi> I have one reasonable request to them, that they would but for one year fast, as many days out of Private Devo<g ref="char:EOLhyphen"/>tion, as they do who fast at set times and days commanded by an extrinsecal Authority; and I perswade my self, they would find so great spiritual benefit thereby, that they would clearly see, fasting being good in it self, its being commanded by our Superiors can never make it Superstition. I deny not but the change of the Primitive Christian way of fasting into a meer Abstinence from flesh, by Set-Fasters, fasting from one sort of meat and feasting upon others, making up what they wanted in Meat by Wine and strong drink, at meals and betwixt meals, gave but too great occasion to many simple well meaning people, to look upon all fasting as a meer superstition: It being hard to conceive that ever the Apostles could appoint such a manner of fasting, as is too too commonly practised by Professors to follow Apostolical Institutions in their Set-fasts. For what say <hi>Non-Conformists,</hi> if we must upon the Authority of the Primitive Fathers fast <hi>Lent,</hi> why then ought we not to follow the manner of fasting, prescribed by the same Fathers? Have the Holy Fathers a sacred Authority when they reprehend the <hi>No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-fasting</hi> of <hi>Non-C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nformists,</hi> but none at all when they reprehend the mock manner of fasting of those of the Church of <hi>England,</hi> or the Church of <hi>Rome?</hi> As for answer to this objection, we all acknowledge our fault, and are resolved seriously to endeavour amendment, and according to our corporal and spiritual strength, Piously to emulate the Primitive Chri<g ref="char:EOLhyphen"/>stians <hi>fasting:</hi> And would you joyn with us in so holy an exercise, we hope what our own simple knowledg is not able to prevail with our sensuall Nature to do, your good example would shame us into the effectual performance of, at least in some good measure. And now I hope your objection is answered: and a happy solution this indeed; God grant it. Let us lay aside, this sacred Penitential time, all other disputes, and let this be our great Controversie, who shall spend most of our time in devout prayers and diligent reading or hearing Gods word; and most of our worldly wealth in charitable Alms upon our indigent neighbour, and least upon our selves in meat and drink: Let none revile or injure his brother, but let our great quarrel be against our selves, Judging and Punishing our selves for our sins by fasting and Abstinence in this world, that we may not be judged and punished for them by Almighty God by Hell-fire in the other. By such disputes as these we shall sooner come to an amicable union amongst our selves, and to the happy favour of our common Lord and God, than by all our uncharitable unchristian Brawls and Contests.</p>
+            <pb n="8" facs="tcp:52169:5"/>
+            <p>
+               <hi>Quod universa tenet Ecclesia, ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conciliis institutum, sed semper ret<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> est, non nisi Apostolica aut<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>late traditum rectissime credimut▪</hi> S. August, de Baptismo contra, Donati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. C. 23. <hi>That which the universal Church observeth, and was not instituitā by Councels, but hath been ever retained, we most rightly believe to have been no other than a Tradition from Apostolical Authority.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joseph Hindmarsh,</hi> at the <hi>Black Bull</hi> in <hi>Cornhill,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
